@@ -1,0 +1,2 @@
+# Power-BI-Interactive-Dashboard-Retail-Sales-Insights-with-Bookmarks-Selection-Pane
+This Power BI project focuses on retail sales analysis using advanced interactivity features like Bookmarks and the Selection Pane. It enables dynamic filtering, seamless navigation, and storytelling through toggle buttons and customized views. The dashboard enhances user experience by making data exploration intuitive and visually engaging.
